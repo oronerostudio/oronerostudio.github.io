@@ -2,26 +2,76 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Our Portfolio"
+  # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/deviouslick.png"
+      title: "Devious Lick Simulator"
+      text: "Perform the most devious licks and stash objects from your school. Sell them to upgrade your character. Get pets and hit licks together!"
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.DeviousLickSimulator"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/rundelivery.png"
+      title: "Run Delivery"
+      text: "Deliver items and earn money!"
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.RunDelivery"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/thief1.png"
+      title: "Thief's Gate"
+      text: "Try to be sneaky and defeat your enemies."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.DefaultCompany.SneakIdle"
+  
+    - image: "images/idlecrush_ss1.png"
+      title: "Idle Crush"
+      text: "Crush balls with matching bullets! Your turret shoots colored bullets which crush balls. Tap to switch colors, shoot the correct color and crush those balls!"
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.IdleCrush"
+ 
+    - image: "images/slap2.png"
+      title: "Slap Workers"
+      text: "Slap your workers to get them back to work! Workers are getting too lazy these days, slacking off at the first possibility. Remind them the importance of hard work by using your hands. "
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.SlapWorkers"
+ 
+    - image: "images/heistrush.png"
+      title: "Heist Rush"
+      text: "Steal huge amounts of cash and valuables with your crew!"
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.HeistRush"
+ 
+    - image: "images/carcrush_ss2.png"
+      title: "Car Crush"
+      text: "Tap on a car and trigger a chain reaction! Crush cars with the same color. Be careful! Number of moves is limited."
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.CarCrush"   
+    
+    - image: "images/piratefightss2.png"
+      title: "Pirate Fight"
+      text: "Arrange your crew and battle against other pirates! Arrange and fill as many pirates as possible from a selection pool to pillage other islands with pirates."
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.PiratesandBoats"
+    
+    - image: "images/breakglass_ss3.png"
+      title: "Break Glass"
+      text: "Draw interesting objects and throw them to break the glass! Earn money and improve your throwing skills."
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.BreakGlass"
+    
+    - image: "images/markroads.png"
+      title: "Mark Roads"
+      text: "Paint roads with the correct markings and help organize the traffic. Grow your city and build reliable roads. Game recognizes the marking you do and you earn a score based on the similarity."
+      button:
+        label: "Play Store"
+        url: "https://play.google.com/store/apps/details?id=com.OroneroStudio.MarkRoads"    
+   

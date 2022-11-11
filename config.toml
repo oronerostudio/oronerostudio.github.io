@@ -6,12 +6,12 @@ summaryLength = 20
 
 [params]
 title = "Oronero Studio"
-description = "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+description = "We focus on combining fresh ideas with quality to create engaging mobile games."
 images = [ "images/hero-image.png" ]
-logo = "arrow-up.png"
-location = [ "3891 Ranchview Dr. Richardson, California 62639" ]
-contact = [ "trungkienspktnd@gamail.com", "207.555.0119" ]
-copyright = "© 2022 Oronero Studio All Rights Reserved"
+logo = "images/hero-image.png"
+# location = [ "3891 Ranchview Dr. Richardson, California 62639" ]
+# contact = [ "trungkienspktnd@gamail.com", "207.555.0119" ]
+copyright = "© 2022 Oronero Studio All Rights Reserved. Google Play and the Google Play logo are trademarks of Google LLC."
 postProcess = false
 
   [params.favicons]
@@ -19,22 +19,22 @@ postProcess = false
   backgroundColor = "#FFFFFF"
   faviconColor = "#000000"
 
-  [params.social]
-  dribbble = "#"
-  instagram = "#"
-  facebook = "#"
-  twitter = "#"
+#   [params.social]
+#   dribbble = "#"
+#   instagram = "#"
+#   facebook = "#"
+#   twitter = "#"
 
-[[menus.main]]
-name = "Home"
-url = "/#hero"
-weight = 1
+# [[menus.main]]
+# name = "Home"
+# url = "/#hero"
+# weight = 1
 
-[[menus.buttons]]
-name = "Book a call"
-url = "/#"
-weight = 5
-pre = "btn btn-primary text-light"
+# [[menus.buttons]]
+# name = "Book a call"
+# url = "/#"
+# weight = 5
+# pre = "btn btn-primary text-light"
 
 [[menus.footer]]
 name = "Home"
