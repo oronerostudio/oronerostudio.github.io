@@ -23,15 +23,15 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-[-Google Play Services](https://www.google.com/policies/privacy/)
+- [Google Play Services](https://www.google.com/policies/privacy/)
 
-[-Facebook](https://www.facebook.com/about/privacy/update/printable)
+- [Facebook](https://www.facebook.com/about/privacy/update/printable)
 
-[-Unity](https://unity3d.com/legal/privacy-policy)
+- [Unity](https://unity3d.com/legal/privacy-policy)
 
-[-GameAnalytics](https://gameanalytics.com/privacy)
+- [GameAnalytics](https://gameanalytics.com/privacy)
 
-[-AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
+- [AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
 
  
 
@@ -47,29 +47,29 @@ To delete user data collected by “Oronero Studio”, please reach out to info@
 
 If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
 
-    GameAnalytics:
+- GameAnalytics:
 
-        email: privacy@gameanalytics.com
+    - email:  privacy@gameanalytics.com
 
-        privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+    - privacy policy:  https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
 
-    Facebook Analytics:
+- Facebook Analytics:
 
-        email: none, please refer to the privacy policy
+    - email: none, please refer to the privacy policy
 
-        privacy policy: https://www.facebook.com/policy.php
+    - privacy policy:  https://www.facebook.com/policy.php
 
-    AppsFlyer:
+- AppsFlyer:
 
-        email: privacy@appsflyer.com
+    - email:  privacy@appsflyer.com
 
-        privacy policy: https://www.appsflyer.com/legal/services-privacy-policy/
+    - privacy policy:  https://www.appsflyer.com/legal/services-privacy-policy/
 
-    Unity:
+- Unity:
 
-        email: dpo@unity3d.com
+    - email:  dpo@unity3d.com
 
-        privacy policy: https://unity3d.com/legal/privacy-policy
+    - privacy policy:  https://unity3d.com/legal/privacy-policy
 
 ​
 ## Cookies​
@@ -83,13 +83,10 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 We may employ third-party companies and individuals due to the following reasons:
 
--To facilitate our Service;
-
--To provide the Service on our behalf;
-
--To perform Service-related services; or
-
--To assist us in analyzing how our Service is used.
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
  
 
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
